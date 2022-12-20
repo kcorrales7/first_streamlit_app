@@ -1,6 +1,5 @@
 import streamlit
 
-pip install
 streamlit version
 
 streamlit.title('My Parents New Healthy Diner')
