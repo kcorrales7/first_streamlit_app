@@ -1,4 +1,6 @@
 import streamlit
+pipenv update streamlit
+pipenv run streamlit version
 
 streamlit.title('My Parents New Healthy Diner')
 
