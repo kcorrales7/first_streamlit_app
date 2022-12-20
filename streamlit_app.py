@@ -1,5 +1,5 @@
 import streamlit
-cd myproject
+
 pipenv shell
 pip install
 streamlit version
