@@ -1,0 +1,8 @@
+cd myproject
+
+pipenv shell
+pip install --upgrade streamlit
+streamlit version
+
+pipenv update streamlit
+pipenv run streamlit version
