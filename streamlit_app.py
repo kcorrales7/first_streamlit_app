@@ -1,6 +1,5 @@
 import streamlit
 
-pipenv shell
 pip install
 streamlit version
 
