@@ -1,7 +1,7 @@
 import streamlit
 cd myproject
 pipenv shell
-pip install --upgrade streamlit
+pip install
 streamlit version
 
 streamlit.title('My Parents New Healthy Diner')
